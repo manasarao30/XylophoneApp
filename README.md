@@ -2,4 +2,7 @@
 # XylophoneApp
 Xylophone using SwiftUI
 
-https://github.com/manasarao30/XylophoneApp/assets/54011799/3fcfb7a3-b101-4c70-936b-2fcd11ce5991
+
+
+https://github.com/manasarao30/XylophoneApp/assets/54011799/58cf018e-d40a-40b0-9ca4-9ae3ebdd70f7
+
